@@ -1,5 +1,5 @@
 # Retail-Sales-Prediction
 
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F32555702%2F37235455-ada03b6a-23b3-11e8-9a53-0df7a4b704bc.jpg&imgrefurl=https%3A%2F%2Fgithub.com%2Fmeizmyang%2FRossmann-Sales-Prediction&tbnid=upuPXf-HldhemM&vet=12ahUKEwiW_ZfP3qPzAhUzoUsFHRbbD14QMygTegUIARDKAQ..i&docid=vw_IqvIoGWyd4M&w=2500&h=564&q=rossmann%20store%20sales%20prediction&ved=2ahUKEwiW_ZfP3qPzAhUzoUsFHRbbD14QMygTegUIARDKAQ)
+![alt text](https://images.app.goo.gl/FMCHYaZ4zTPyHpR1A)
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. My work includes various plots and graphs , visualizations , feature engineering , ensemble techniques , different ML algorithms with their respective parameter tuning , analysis and trends . Predictions are of 6 weeks of daily sales for 1,115 stores located across Germany.
