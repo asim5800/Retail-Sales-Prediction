@@ -44,9 +44,8 @@ Step 07: Convert Model Performance to Business Values: Convert the performance o
 At this stage models used : *Linear Regression *Lasso Regression *Random Forest Regressor *
 
 	                Train_Score	     Test_Score
-Linear Regression	0.780750	       0.782392
-Lasso Regression	0.780731	       0.782369
-Decision Tree	    0.999996	       0.915698
+Linear Regression	0.780750	       0.782392 <br /> 
+Lasso Regression	0.780731	       0.782369 <br /> 
 Random Forest    	0.993811	       0.956433
 
 ## 4. Conclusion
