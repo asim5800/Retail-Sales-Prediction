@@ -41,11 +41,11 @@ Step 07: Convert Model Performance to Business Values: Convert the performance o
 
 
 ## 3.Machine Learning Model Implementation and performance
-At this stage models used : *Linear Regression *Lasso Regression *Random Forest Regressor *
+At this stage models used : *Linear Regression *Lasso Regression *Random Forest Regressor (best)*
 
-	                Train_Score	     Test_Score
+	                Random Forest    	0.993811             	       0.956433
 
-Random Forest    	0.993811             	       0.956433
+
 
 ## 4. Conclusion
 
