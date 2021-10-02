@@ -24,7 +24,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 ## 2. Solution Strategy
 My strategy to solve this challenge was:
 
-Step 01: Data Description: Use statistics metrics to identify data distribuctions.
+Step 01: Data Description: Use statistics metrics to identify data distributions.
 
 Step 02: Feature Engineering: Derive new attributes based on the original variables to better describe the phenomenon that will be modeled.
 
