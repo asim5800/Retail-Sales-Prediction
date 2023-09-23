@@ -42,15 +42,85 @@ Step 07: Convert Model Performance to Business Values: Convert the performance o
 
 ## 3.Machine Learning Model Implementation and performance
 At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor
-
-	                                        Training score                Testing score 
-			Linear Regression	0.780750		       0.782392
-			
-			Lasso Regression	0.780731		       0.782369
-			
-			Random Forest    	0.993811             	       0.956433
-
-
+<table>
+<tr>
+<th>Regression_Model</th>
+<th>Train_MSE</th>
+<th>Train_RMSE</th>
+<th>Train_R2</th>
+<th>Train_Adjusted_R2</th>
+<th>Test_MSE</th>
+<th>Test_RMSE</th>
+<th>Test_R2</th>
+<th>Test_Adjusted_R2</th>
+</tr>
+<tr>
+    <td>Linear Regression</td>								
+    <td>1.214859e+06</td>
+    <td>1102.206527</td>
+    <td>0.844978</td>
+    <td>0.844975</td>
+    <td>1.217627e+06</td>
+    <td>1103.461202</td>
+    <td>0.844943</td>
+    <td>0.844929</td>
+</tr>
+<tr>
+    <td>Lasso Regression</td>								
+    <td>1.214485e+06</td>
+    <td>1102.036953</td>
+    <td>0.845026</td>
+    <td>0.845012</td>
+    <td>1.217348e+06</td>
+    <td>1103.334986</td>
+    <td>0.844979</td>
+    <td>0.84496</td>
+  </tr>
+<tr>
+    <td>Ridge Regression</td>
+    <td>1.214486e+06</td>
+    <td>1102.037084</td>
+    <td>0.845026</td>
+    <td>0.845022</td>
+    <td>1.217348e+06</td>
+    <td>1103.335147</td>
+    <td>0.844979</td>
+    <td>0.844965</td>
+  </tr>
+<tr>
+    <td>Elastic Net Regression</td>								
+    <td>1.214485e+06</td>
+    <td>1102.036949</td>
+    <td>0.845026</td>
+    <td>0.845022</td>
+    <td>1.217348e+06</td>
+    <td>1103.334982</td>
+    <td>0.844979</td>
+    <td>0.844965</td>
+  </tr>
+<tr>								
+    <td>Decsion Tree Regression</td>
+    <td>1.362364e+06</td>
+    <td>1167.203328</td>
+    <td>0.826156</td>
+    <td>0.826152</td>
+    <td>1.367349e+06</td>
+    <td>1169.337164</td>
+    <td>0.825877</td>
+    <td>0.825861</td>
+  </tr>
+<tr>
+    <td>Random Forest Regression</td>								
+    <td>5.596015e+04</td>
+    <td>236.558981</td>
+    <td>0.992859</td>
+    <td>0.992859</td>
+    <td>3.200686e+05</td>
+    <td>565.746016</td>
+    <td>0.959241</td>
+    <td>0.959238</td>
+  </tr>
+</table>
 
 
 
